@@ -49,3 +49,12 @@ This project involves building an **interactive Power BI dashboard** to analyze 
 - Kaggle for providing the dataset.
 - Power BI for its robust visualization and analytics capabilities.
 
+![1](https://github.com/user-attachments/assets/53589483-27f7-4f6b-a175-b1e4802f8a4c)
+![2](https://github.com/user-attachments/assets/8e16488a-0993-4fbe-b18c-8000df121336)
+![3](https://github.com/user-attachments/assets/f32fed5d-3e91-4c76-98f5-8db137f93649)
+![4](https://github.com/user-attachments/assets/9fd9731b-ce13-42e9-a9a5-b79b20a1b173)
+![5](https://github.com/user-attachments/assets/03a4fd9a-d97e-4590-915b-dd9e0b7a9454)
+
+
+
+
